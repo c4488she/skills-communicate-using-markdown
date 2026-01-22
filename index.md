@@ -7,4 +7,8 @@
 print("Hello")
 ```
 
+- [x] Step 1
+- [x] Step 2
+- [ ] Finish
+
 
